@@ -1,0 +1,7 @@
+pandas 
+numpy
+ast
+sklearn
+nltk
+requests
+streamlit
